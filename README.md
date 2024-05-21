@@ -1,6 +1,6 @@
 ## Hello World, my name is Heloisa!
 
-<p>"I'm Heloisa Ribeiro, a Computer Science student and tech enthusiast. I currently am studying and working as young apprentice in "Grupo Petrópolis,  moreover, I'm always looking for something to learn and improve my knoledge by exploring different technologies.. </p>
+<p>I'm Heloisa Ribeiro, a Computer Science student and tech enthusiast. I currently am studying and working as young apprentice in "Grupo Petrópolis,  moreover, I'm always looking for something to learn and improve my knoledge by exploring different technologies.. </p>
 
 
 
