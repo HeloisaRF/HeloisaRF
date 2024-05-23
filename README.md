@@ -1,6 +1,6 @@
 # ✨ Hello World, my name is Heloisa!
 
-<p>I'm Heloisa Ribeiro, a Computer Science student and tech enthusiast. I am currently studying and working as young apprentice at "Grupo Petrópolis, in addition, I'm always looking for something to learn and improve my knoledge by exploring different technologies. </p>
+<p>I'm Heloisa Ribeiro, a Computer Science student and tech enthusiast. I am currently studying and working as young apprentice at "Grupo Petrópolis", in addition, I'm always looking for something to learn and improve my knoledge by exploring different technologies. </p>
 
 > "I have no special talent, I am only passionately curious" — Albert Einstein
 
